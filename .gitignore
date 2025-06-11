@@ -6,3 +6,4 @@ dist/
 .DS_Store
 *.pyc
 .cache/
+.pytest_cache/
